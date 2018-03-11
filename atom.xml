@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://maoyunfei.github.io/"/>
+  <link href="http://www.lovexue.xyz/"/>
   <updated>2018-03-09T10:02:34.147Z</updated>
-  <id>https://maoyunfei.github.io/</id>
+  <id>http://www.lovexue.xyz/</id>
   
   <author>
     <name>云逸云飞</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Docker容器相关命令</title>
-    <link href="https://maoyunfei.github.io/docker/fab65d8b/"/>
-    <id>https://maoyunfei.github.io/docker/fab65d8b/</id>
+    <link href="http://www.lovexue.xyz/docker/fab65d8b/"/>
+    <id>http://www.lovexue.xyz/docker/fab65d8b/</id>
     <published>2018-03-07T16:00:00.000Z</published>
     <updated>2018-03-09T10:02:34.147Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="Docker" scheme="https://maoyunfei.github.io/categories/docker/"/>
+      <category term="Docker" scheme="http://www.lovexue.xyz/categories/docker/"/>
     
     
-      <category term="Docker命令" scheme="https://maoyunfei.github.io/tags/Docker%E5%91%BD%E4%BB%A4/"/>
+      <category term="Docker命令" scheme="http://www.lovexue.xyz/tags/Docker%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>Docker镜像相关命令</title>
-    <link href="https://maoyunfei.github.io/docker/7dd9962d/"/>
-    <id>https://maoyunfei.github.io/docker/7dd9962d/</id>
+    <link href="http://www.lovexue.xyz/docker/7dd9962d/"/>
+    <id>http://www.lovexue.xyz/docker/7dd9962d/</id>
     <published>2018-03-06T16:00:00.000Z</published>
     <updated>2018-03-09T09:57:36.015Z</updated>
     
@@ -53,17 +53,17 @@
     
     </summary>
     
-      <category term="Docker" scheme="https://maoyunfei.github.io/categories/docker/"/>
+      <category term="Docker" scheme="http://www.lovexue.xyz/categories/docker/"/>
     
     
-      <category term="Docker命令" scheme="https://maoyunfei.github.io/tags/Docker%E5%91%BD%E4%BB%A4/"/>
+      <category term="Docker命令" scheme="http://www.lovexue.xyz/tags/Docker%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>Java 8新特性之Date/Time API</title>
-    <link href="https://maoyunfei.github.io/java/7dd3efa4/"/>
-    <id>https://maoyunfei.github.io/java/7dd3efa4/</id>
+    <link href="http://www.lovexue.xyz/java/7dd3efa4/"/>
+    <id>http://www.lovexue.xyz/java/7dd3efa4/</id>
     <published>2018-03-02T16:00:00.000Z</published>
     <updated>2018-03-08T03:22:57.449Z</updated>
     
@@ -75,17 +75,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="Java 8" scheme="https://maoyunfei.github.io/tags/Java-8/"/>
+      <category term="Java 8" scheme="http://www.lovexue.xyz/tags/Java-8/"/>
     
   </entry>
   
   <entry>
     <title>Java 8新特性之函数式接口和Lambda表达式</title>
-    <link href="https://maoyunfei.github.io/java/c8f73c32/"/>
-    <id>https://maoyunfei.github.io/java/c8f73c32/</id>
+    <link href="http://www.lovexue.xyz/java/c8f73c32/"/>
+    <id>http://www.lovexue.xyz/java/c8f73c32/</id>
     <published>2018-03-01T16:00:00.000Z</published>
     <updated>2018-03-08T03:22:57.457Z</updated>
     
@@ -97,17 +97,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="Java 8" scheme="https://maoyunfei.github.io/tags/Java-8/"/>
+      <category term="Java 8" scheme="http://www.lovexue.xyz/tags/Java-8/"/>
     
   </entry>
   
   <entry>
     <title>Java 8新特性之接口的默认方法和静态方法</title>
-    <link href="https://maoyunfei.github.io/java/6376aac3/"/>
-    <id>https://maoyunfei.github.io/java/6376aac3/</id>
+    <link href="http://www.lovexue.xyz/java/6376aac3/"/>
+    <id>http://www.lovexue.xyz/java/6376aac3/</id>
     <published>2018-02-28T16:00:00.000Z</published>
     <updated>2018-03-08T03:22:57.453Z</updated>
     
@@ -119,17 +119,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="Java 8" scheme="https://maoyunfei.github.io/tags/Java-8/"/>
+      <category term="Java 8" scheme="http://www.lovexue.xyz/tags/Java-8/"/>
     
   </entry>
   
   <entry>
     <title>聊聊JVM的年轻代</title>
-    <link href="https://maoyunfei.github.io/java/24b8c8d9/"/>
-    <id>https://maoyunfei.github.io/java/24b8c8d9/</id>
+    <link href="http://www.lovexue.xyz/java/24b8c8d9/"/>
+    <id>http://www.lovexue.xyz/java/24b8c8d9/</id>
     <published>2018-02-09T16:00:00.000Z</published>
     <updated>2018-03-04T09:38:51.288Z</updated>
     
@@ -141,17 +141,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="JVM" scheme="https://maoyunfei.github.io/tags/JVM/"/>
+      <category term="JVM" scheme="http://www.lovexue.xyz/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>Java内存模型</title>
-    <link href="https://maoyunfei.github.io/java/91e798bc/"/>
-    <id>https://maoyunfei.github.io/java/91e798bc/</id>
+    <link href="http://www.lovexue.xyz/java/91e798bc/"/>
+    <id>http://www.lovexue.xyz/java/91e798bc/</id>
     <published>2018-02-08T16:00:00.000Z</published>
     <updated>2018-03-04T09:38:51.297Z</updated>
     
@@ -163,17 +163,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="JVM" scheme="https://maoyunfei.github.io/tags/JVM/"/>
+      <category term="JVM" scheme="http://www.lovexue.xyz/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>垃圾收集算法</title>
-    <link href="https://maoyunfei.github.io/java/ba66848b/"/>
-    <id>https://maoyunfei.github.io/java/ba66848b/</id>
+    <link href="http://www.lovexue.xyz/java/ba66848b/"/>
+    <id>http://www.lovexue.xyz/java/ba66848b/</id>
     <published>2018-02-07T16:00:00.000Z</published>
     <updated>2018-03-04T09:38:51.278Z</updated>
     
@@ -185,17 +185,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="JVM" scheme="https://maoyunfei.github.io/tags/JVM/"/>
+      <category term="JVM" scheme="http://www.lovexue.xyz/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>HotSpot虚拟机对象探秘</title>
-    <link href="https://maoyunfei.github.io/java/41b66951/"/>
-    <id>https://maoyunfei.github.io/java/41b66951/</id>
+    <link href="http://www.lovexue.xyz/java/41b66951/"/>
+    <id>http://www.lovexue.xyz/java/41b66951/</id>
     <published>2018-02-06T16:00:00.000Z</published>
     <updated>2018-03-04T09:38:51.293Z</updated>
     
@@ -207,17 +207,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="JVM" scheme="https://maoyunfei.github.io/tags/JVM/"/>
+      <category term="JVM" scheme="http://www.lovexue.xyz/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>运行时数据区域</title>
-    <link href="https://maoyunfei.github.io/java/20fd51d6/"/>
-    <id>https://maoyunfei.github.io/java/20fd51d6/</id>
+    <link href="http://www.lovexue.xyz/java/20fd51d6/"/>
+    <id>http://www.lovexue.xyz/java/20fd51d6/</id>
     <published>2018-02-05T16:00:00.000Z</published>
     <updated>2018-03-04T09:38:51.327Z</updated>
     
@@ -229,17 +229,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="JVM" scheme="https://maoyunfei.github.io/tags/JVM/"/>
+      <category term="JVM" scheme="http://www.lovexue.xyz/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>Hash冲突解决方案</title>
-    <link href="https://maoyunfei.github.io/other/eebb0c54/"/>
-    <id>https://maoyunfei.github.io/other/eebb0c54/</id>
+    <link href="http://www.lovexue.xyz/other/eebb0c54/"/>
+    <id>http://www.lovexue.xyz/other/eebb0c54/</id>
     <published>2018-02-04T16:00:00.000Z</published>
     <updated>2018-03-04T09:40:15.520Z</updated>
     
@@ -251,17 +251,17 @@
     
     </summary>
     
-      <category term="其他" scheme="https://maoyunfei.github.io/categories/other/"/>
+      <category term="其他" scheme="http://www.lovexue.xyz/categories/other/"/>
     
     
-      <category term="hash" scheme="https://maoyunfei.github.io/tags/hash/"/>
+      <category term="hash" scheme="http://www.lovexue.xyz/tags/hash/"/>
     
   </entry>
   
   <entry>
     <title>Java String Constant Pool (Java字符串常量池)</title>
-    <link href="https://maoyunfei.github.io/java/e52216a2/"/>
-    <id>https://maoyunfei.github.io/java/e52216a2/</id>
+    <link href="http://www.lovexue.xyz/java/e52216a2/"/>
+    <id>http://www.lovexue.xyz/java/e52216a2/</id>
     <published>2018-02-03T16:00:00.000Z</published>
     <updated>2018-03-04T09:38:51.282Z</updated>
     
@@ -273,17 +273,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="Java基础" scheme="https://maoyunfei.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://www.lovexue.xyz/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>java -jar启动命令</title>
-    <link href="https://maoyunfei.github.io/java/309440ba/"/>
-    <id>https://maoyunfei.github.io/java/309440ba/</id>
+    <link href="http://www.lovexue.xyz/java/309440ba/"/>
+    <id>http://www.lovexue.xyz/java/309440ba/</id>
     <published>2018-02-02T16:00:00.000Z</published>
     <updated>2018-03-04T09:38:51.310Z</updated>
     
@@ -295,17 +295,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="Java基础" scheme="https://maoyunfei.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://www.lovexue.xyz/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>Executor,ExecutorService和Executors间的不同</title>
-    <link href="https://maoyunfei.github.io/java/8542269d/"/>
-    <id>https://maoyunfei.github.io/java/8542269d/</id>
+    <link href="http://www.lovexue.xyz/java/8542269d/"/>
+    <id>http://www.lovexue.xyz/java/8542269d/</id>
     <published>2018-02-01T16:00:00.000Z</published>
     <updated>2018-03-04T09:38:51.341Z</updated>
     
@@ -317,17 +317,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="Java基础" scheme="https://maoyunfei.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://www.lovexue.xyz/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>equals()和hashCode()</title>
-    <link href="https://maoyunfei.github.io/java/554520e5/"/>
-    <id>https://maoyunfei.github.io/java/554520e5/</id>
+    <link href="http://www.lovexue.xyz/java/554520e5/"/>
+    <id>http://www.lovexue.xyz/java/554520e5/</id>
     <published>2018-01-31T16:00:00.000Z</published>
     <updated>2018-03-04T09:38:51.305Z</updated>
     
@@ -339,17 +339,17 @@
     
     </summary>
     
-      <category term="Java" scheme="https://maoyunfei.github.io/categories/java/"/>
+      <category term="Java" scheme="http://www.lovexue.xyz/categories/java/"/>
     
     
-      <category term="Java基础" scheme="https://maoyunfei.github.io/tags/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://www.lovexue.xyz/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>Understanding Eureka Peer to Peer Communication</title>
-    <link href="https://maoyunfei.github.io/spring/7b50bf88/"/>
-    <id>https://maoyunfei.github.io/spring/7b50bf88/</id>
+    <link href="http://www.lovexue.xyz/spring/7b50bf88/"/>
+    <id>http://www.lovexue.xyz/spring/7b50bf88/</id>
     <published>2018-01-14T16:00:00.000Z</published>
     <updated>2018-03-04T11:51:48.765Z</updated>
     
@@ -361,17 +361,17 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://maoyunfei.github.io/categories/spring/"/>
+      <category term="Spring" scheme="http://www.lovexue.xyz/categories/spring/"/>
     
     
-      <category term="Spring Cloud" scheme="https://maoyunfei.github.io/tags/Spring-Cloud/"/>
+      <category term="Spring Cloud" scheme="http://www.lovexue.xyz/tags/Spring-Cloud/"/>
     
   </entry>
   
   <entry>
     <title>Understanding eureka client server communication</title>
-    <link href="https://maoyunfei.github.io/spring/55dcd732/"/>
-    <id>https://maoyunfei.github.io/spring/55dcd732/</id>
+    <link href="http://www.lovexue.xyz/spring/55dcd732/"/>
+    <id>http://www.lovexue.xyz/spring/55dcd732/</id>
     <published>2018-01-13T16:00:00.000Z</published>
     <updated>2018-03-04T11:51:48.764Z</updated>
     
@@ -383,17 +383,17 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://maoyunfei.github.io/categories/spring/"/>
+      <category term="Spring" scheme="http://www.lovexue.xyz/categories/spring/"/>
     
     
-      <category term="Spring Cloud" scheme="https://maoyunfei.github.io/tags/Spring-Cloud/"/>
+      <category term="Spring Cloud" scheme="http://www.lovexue.xyz/tags/Spring-Cloud/"/>
     
   </entry>
   
   <entry>
     <title>Circuit Breaker--Hystrix</title>
-    <link href="https://maoyunfei.github.io/spring/da1cb016/"/>
-    <id>https://maoyunfei.github.io/spring/da1cb016/</id>
+    <link href="http://www.lovexue.xyz/spring/da1cb016/"/>
+    <id>http://www.lovexue.xyz/spring/da1cb016/</id>
     <published>2018-01-13T16:00:00.000Z</published>
     <updated>2018-03-04T11:51:48.763Z</updated>
     
@@ -405,17 +405,17 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://maoyunfei.github.io/categories/spring/"/>
+      <category term="Spring" scheme="http://www.lovexue.xyz/categories/spring/"/>
     
     
-      <category term="Spring Cloud" scheme="https://maoyunfei.github.io/tags/Spring-Cloud/"/>
+      <category term="Spring Cloud" scheme="http://www.lovexue.xyz/tags/Spring-Cloud/"/>
     
   </entry>
   
   <entry>
     <title>客户端侧的负载均衡--Ribbon</title>
-    <link href="https://maoyunfei.github.io/spring/d662598d/"/>
-    <id>https://maoyunfei.github.io/spring/d662598d/</id>
+    <link href="http://www.lovexue.xyz/spring/d662598d/"/>
+    <id>http://www.lovexue.xyz/spring/d662598d/</id>
     <published>2018-01-12T16:00:00.000Z</published>
     <updated>2018-03-04T11:51:48.763Z</updated>
     
@@ -427,17 +427,17 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://maoyunfei.github.io/categories/spring/"/>
+      <category term="Spring" scheme="http://www.lovexue.xyz/categories/spring/"/>
     
     
-      <category term="Spring Cloud" scheme="https://maoyunfei.github.io/tags/Spring-Cloud/"/>
+      <category term="Spring Cloud" scheme="http://www.lovexue.xyz/tags/Spring-Cloud/"/>
     
   </entry>
   
   <entry>
     <title>Declarative REST Client--Feign</title>
-    <link href="https://maoyunfei.github.io/spring/2db5c206/"/>
-    <id>https://maoyunfei.github.io/spring/2db5c206/</id>
+    <link href="http://www.lovexue.xyz/spring/2db5c206/"/>
+    <id>http://www.lovexue.xyz/spring/2db5c206/</id>
     <published>2018-01-12T16:00:00.000Z</published>
     <updated>2018-03-04T11:51:48.764Z</updated>
     
@@ -449,10 +449,10 @@
     
     </summary>
     
-      <category term="Spring" scheme="https://maoyunfei.github.io/categories/spring/"/>
+      <category term="Spring" scheme="http://www.lovexue.xyz/categories/spring/"/>
     
     
-      <category term="Spring Cloud" scheme="https://maoyunfei.github.io/tags/Spring-Cloud/"/>
+      <category term="Spring Cloud" scheme="http://www.lovexue.xyz/tags/Spring-Cloud/"/>
     
   </entry>
   
